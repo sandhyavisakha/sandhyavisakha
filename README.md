@@ -22,30 +22,23 @@ Here are some of the tools and technologies I'm familiar with:
 - 💻 Programming Languages: Python, Shell scripting.
 
 
-![Tech Stack](images/tech-stack.png)
 
 ## Projects
 
 I'm actively working on various projects to showcase my skills and knowledge. Let's explore a couple of them:
 
-1. **Project One**
+1. **Project-1**
+   Static Website Hosting on S3, https://www.sandhya-awsportfolio.tech/s3-static-website-hosting
 
-   Brief project description.
-
-   ![Project One Demo](gifs/project-one-demo.gif)
-
-2. **Project Two**
-
-   Brief project description.
-
-   ![Project Two Demo](gifs/project-two-demo.gif)
+2. **Project-2**
+    High Availability Architecture with Auto Scaling, https://www.sandhya-awsportfolio.tech/high-availability-with-auto-scaling
 
 You can find more of my work in my GitHub Repositories.
 
 ## Connect with Me
 
 - 📫 Feel free to contact me at sandhyagriddaluru92@gmail.com.
-- 🌐 Connect with me on LinkedIn (https://www.linkedin.com/in/visakha-sandhya-griddaluru-8125a1119/).
+- 🌐 Connect with me on LinkedIn, https://www.linkedin.com/in/visakha-sandhya-griddaluru-8125a1119/.
 
 ## Certifications
 

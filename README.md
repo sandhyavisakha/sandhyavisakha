@@ -36,7 +36,7 @@ You can find more of my work in my GitHub Repositories.
 ## Connect with Me
 
 - 📫 Feel free to contact me at sandhyagriddaluru92@gmail.com.
-- 🌐 Connect with me on LinkedIn, https://www.linkedin.com/in/visakha-sandhya-griddaluru-8125a1119/.
+- 🌐 Connect with me on LinkedIn, https://www.linkedin.com/in/visakha-sandhya-griddaluru-8125a1119/
 
 ## Certifications
 

@@ -2,7 +2,7 @@
 
 I'm Visakha Sandhya Griddaluru, a passionate AWS Cloud Engineer and DevOps enthusiast on a mission to transition my career into the world of technology. Welcome to my GitHub profile!
 
-![Profile Banner](images/banner.jpg)
+![Profile Banner](isandhyavisakha/AWS-image.png)
 
 ## About Me
 

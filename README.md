@@ -1,6 +1,6 @@
 # Welcome to My Tech Journey 👋
 
-I'm Visakha Sandhya Griddaluru, a passionate AWS Cloud Engineer and DevOps enthusiast on a mission to transition my career into the world of technology. Welcome to my GitHub profile!
+I'm Visakha Sandhya Griddaluru, a passionate AWS Cloud and DevOps Engineer aiming for a successful career in the world of technology. Welcome to my GitHub profile!
 
 
 ## About Me
@@ -37,10 +37,12 @@ You can find more of my work in my GitHub Repositories.
 
 - 📫 Feel free to contact me at sandhyagriddaluru92@gmail.com.
 - 🌐 Connect with me on LinkedIn, https://www.linkedin.com/in/visakha-sandhya-griddaluru-8125a1119/
+- Check out my blogs at https://sandhyagriddaluru.hashnode.dev/
 
 ## Certifications
 
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect - Associate
+- Hashicorp Certified: Terraform Associate
 
 I'm excited about the opportunities in the technology field, and I'm always open to collaborations and learning from others. Let's connect and build something amazing together! 🚀

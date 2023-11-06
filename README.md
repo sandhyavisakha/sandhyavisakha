@@ -1,11 +1,10 @@
 # Welcome to My Tech Journey 👋
 
-I'm Visakha Sandhya Griddaluru, a passionate AWS Cloud and DevOps Engineer aiming for a successful career in the world of technology. Welcome to my GitHub profile!
+I'm Visakha Sandhya Griddaluru, a passionate AWS Cloud Engineer and a DevOps enthusiast who aims on doing great things in this cloud-driven industry.  Welcome to my GitHub profile!
 
 
 ## About Me
 
-- 🚀 I'm on a journey of career transition to the exciting fields of AWS and DevOps.
 - 💼 AWS Certified with Cloud Practitioner and Solutions Architect Associate.
 - 🌐 Eager to learn and contribute to the ever-evolving tech landscape.
 - 🌟 Passionate about automation, cloud architecture, and infrastructure as code.
@@ -31,7 +30,6 @@ I'm actively working on various projects to showcase my skills and knowledge. Le
 2. **Project-2**
     High Availability Architecture with Auto Scaling, https://www.sandhya-awsportfolio.tech/high-availability-with-auto-scaling
 
-You can find more of my work in my GitHub Repositories.
 
 ## Connect with Me
 
